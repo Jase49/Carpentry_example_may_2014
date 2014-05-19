@@ -9,3 +9,8 @@ LMC & SMC dwarf galaxies
  - These are in the southern hemisphere
 
 Radio-loud AGN!
+
+Other sources of high-energy emission can be 
+* Neutron stars
+* SNe
+* GRBs
